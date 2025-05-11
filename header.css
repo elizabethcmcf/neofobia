@@ -1,0 +1,33 @@
+header img{
+    width: 80%;
+    margin: 1% 10% 1% 10%;
+}
+.opciones{
+    background-color: 0;
+    display: inline;
+       width: 100%;
+    
+    }
+
+#navegación{
+   display: flex;
+   justify-content: space-between;
+    }
+
+.menu{
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    color: rgb(222, 5, 5);
+    text-transform:capitalize;
+    text-overflow:ellipsis;
+    }
+
+.menu:hover{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    text-transform:capitalize;
+    text-overflow:ellipsis;
+    }
